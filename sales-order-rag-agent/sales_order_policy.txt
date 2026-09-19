@@ -1,0 +1,20 @@
+SALES ORDER POLICY
+
+1. Order Processing
+Sales orders are normally processed within 1 business day after confirmation.
+Orders in "Processing" status are being prepared for fulfillment.
+
+2. Shipping
+Once a sales order is shipped, the customer can track the shipment using the tracking information provided by the company.
+
+3. Returns
+Customers can request a return within 30 days of delivery.
+The product must be unused and in its original packaging.
+
+4. Refunds
+Approved returns are eligible for a refund according to the company's return policy.
+Refund processing normally takes 5 to 7 business days after the returned product is approved.
+
+5. Order Cancellation
+A sales order can be cancelled before it is shipped.
+Once an order has been shipped, cancellation is generally not available.
