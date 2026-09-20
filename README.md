@@ -12,7 +12,7 @@ A collection of applied AI agents, semantic retrieval pipelines, and workflow au
 | [Sales Order Assistant](./sales-order-assistant) | Multi-tool AI agent for sales order inquiries | Python, Gemini API, Function Calling |
 | [Sales Order API Agent](./sales-order-api-agent) | AI agent integrated with a REST API for sales order information retrieval | Python, Gemini API, FastAPI, REST APIs |
 | [Semantic RAG Sales Policy Agent](./sales-order-rag-agent) | Document-grounded AI agent using semantic retrieval | Python, Gemini API, Sentence Transformers, NumPy, RAG |
-
+| [Sales Order Action Agent](./sales-order-action-agent) | AI agent for sales order actions with human approval | Python, Gemini API, Function Calling, Human-in-the-Loop |
 
 
 
